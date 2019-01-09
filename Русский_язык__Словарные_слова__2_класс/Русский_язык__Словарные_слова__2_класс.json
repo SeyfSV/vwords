@@ -1,0 +1,922 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "7a8e96f0-1448-11e9-996c-7ce9d3f08757",
+    "deck_config_uuid": "c7847477-1447-11e9-996c-7ce9d3f08757",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "addon_audio_download_language": "en",
+            "autoplay": false,
+            "crowdanki_uuid": "c7847477-1447-11e9-996c-7ce9d3f08757",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 16,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Определениия",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 4,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 50
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "http://razviwaika.ru/slovarnye-slova-2-klass-programma-shkola-rossii/",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "mid": 1383124316685,
+    "name": "Русский язык::Словарные слова::2 класс",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Вопрос",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Ответ",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Основная (+ обратные карточки)-614af",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Карточка 1",
+                    "ord": 0,
+                    "qfmt": "{{Вопрос}}\n{{type:Ответ}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "..лф..вит",
+                "алфавит"
+            ],
+            "flags": 0,
+            "guid": "A6CZ3VZ<r]",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "..прель",
+                "апрель"
+            ],
+            "flags": 0,
+            "guid": "z|-NE#D6nI",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "б..рёза",
+                "берёза"
+            ],
+            "flags": 0,
+            "guid": "Lb79]qEJBS",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "быстр..",
+                "быстро"
+            ],
+            "flags": 0,
+            "guid": "powQB6_D2}",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "вдру..",
+                "вдруг"
+            ],
+            "flags": 0,
+            "guid": "]T.1!B1f:",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "вет..р",
+                "ветер"
+            ],
+            "flags": 0,
+            "guid": "pcXr6RE:On",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "д..кабрь",
+                "декабрь"
+            ],
+            "flags": 0,
+            "guid": "nmyV^5{}xX",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "д..рога",
+                "дорога"
+            ],
+            "flags": 0,
+            "guid": "u&Fy5|y+j{",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "д.. св..дания",
+                "до свидания"
+            ],
+            "flags": 0,
+            "guid": "KLwS%c},dh",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ж..лтый",
+                "жёлтый"
+            ],
+            "flags": 0,
+            "guid": "j`R]HOHGN*",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "з..вод",
+                "завод"
+            ],
+            "flags": 0,
+            "guid": "PQYn!b.Kt#",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "здра..ствуйт..",
+                "здравствуйте"
+            ],
+            "flags": 0,
+            "guid": "r:zcLi%GKK",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "з..мл..ника",
+                "земляника"
+            ],
+            "flags": 0,
+            "guid": "Ex]mWA:$5/",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "..зв..нит..",
+                "извините"
+            ],
+            "flags": 0,
+            "guid": ".YEY[H9@D",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ин..й",
+                "иней"
+            ],
+            "flags": 0,
+            "guid": "sU@(bbbOEE",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "к..пуста",
+                "капуста"
+            ],
+            "flags": 0,
+            "guid": "xMI499Dd2$",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "к..ртина",
+                "картина"
+            ],
+            "flags": 0,
+            "guid": "A83Pdp.0P2",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "к..ньки",
+                "коньки"
+            ],
+            "flags": 0,
+            "guid": "yH[2iCZ0NS",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "л..пата",
+                "лопата"
+            ],
+            "flags": 0,
+            "guid": "E4|j[3?}xP",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "л..гушка",
+                "лягушка"
+            ],
+            "flags": 0,
+            "guid": "p|80ajP0MH",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "м..г..зин",
+                "магазин"
+            ],
+            "flags": 0,
+            "guid": "zg7;;.#9t!",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "м..лина",
+                "малина"
+            ],
+            "flags": 0,
+            "guid": "if&8%wT;q=",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "меб..ль",
+                "мебель"
+            ],
+            "flags": 0,
+            "guid": "I$/<-_#OZe",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "мес..ц",
+                "месяц"
+            ],
+            "flags": 0,
+            "guid": "I></lW|#>y",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "м..тель",
+                "метель"
+            ],
+            "flags": 0,
+            "guid": "DW~$1p7}@|",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "м..тро",
+                "метро"
+            ],
+            "flags": 0,
+            "guid": "A=OAcoTYf&",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "м..л..ток",
+                "молоток"
+            ],
+            "flags": 0,
+            "guid": "y{@`ghBE5B",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "м..рковь",
+                "морковь"
+            ],
+            "flags": 0,
+            "guid": "d4,N*cbU[O",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "м..роз",
+                "мороз"
+            ],
+            "flags": 0,
+            "guid": "iXWZOqIuA5",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "н..род",
+                "народ"
+            ],
+            "flags": 0,
+            "guid": "HW:C5|4>V/",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "н..ябрь",
+                "ноябрь"
+            ],
+            "flags": 0,
+            "guid": "mpwnWOZ~jA",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "..бед",
+                "обед"
+            ],
+            "flags": 0,
+            "guid": "MQSk#)@<xy",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "..б..зьяна",
+                "обезьяна"
+            ],
+            "flags": 0,
+            "guid": "I-sU.F`dP[",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "обл..к..",
+                "облако"
+            ],
+            "flags": 0,
+            "guid": "nW$qeO<<XS",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "..дежда",
+                "одежда"
+            ],
+            "flags": 0,
+            "guid": "l6jy1$3x{p",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "..ктябрь",
+                "октябрь"
+            ],
+            "flags": 0,
+            "guid": "jfu-&46!Ga",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "..сина",
+                "осина"
+            ],
+            "flags": 0,
+            "guid": "u(W1D9f2XK",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "..тец",
+                "отец"
+            ],
+            "flags": 0,
+            "guid": "I|MSZBVgvK",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "пл..ток",
+                "платок"
+            ],
+            "flags": 0,
+            "guid": "E&Br.=6^ia",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "п..суда",
+                "посуда"
+            ],
+            "flags": 0,
+            "guid": "nRj!><hM]W",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "пр..щай",
+                "прощай"
+            ],
+            "flags": 0,
+            "guid": "feb=oMgQN`",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "р..бочий",
+                "рабочий"
+            ],
+            "flags": 0,
+            "guid": "xr^WP_2oQ*",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "р..сун..к",
+                "рисунок"
+            ],
+            "flags": 0,
+            "guid": "C(kqj%(yOh",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "род..на",
+                "родина"
+            ],
+            "flags": 0,
+            "guid": "v*{ilMqV7w",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Р..ссия",
+                "Россия"
+            ],
+            "flags": 0,
+            "guid": "t3S>q0M)S#",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "с..поги",
+                "сапоги"
+            ],
+            "flags": 0,
+            "guid": "p=^LlQ-z<h",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "сах..р",
+                "сахар"
+            ],
+            "flags": 0,
+            "guid": "rR[kJQ}?2l",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "с..нтябрь",
+                "сентябрь"
+            ],
+            "flags": 0,
+            "guid": "q9`R=dNc_6",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "скор..",
+                "скоро"
+            ],
+            "flags": 0,
+            "guid": "KD!Tt^[B1A",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "сн..гирь",
+                "снегирь"
+            ],
+            "flags": 0,
+            "guid": "yW6@JRukcR",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "сп..сиб..",
+                "спасибо"
+            ],
+            "flags": 0,
+            "guid": "ByBY{lMGYN",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ст..кан",
+                "стакан"
+            ],
+            "flags": 0,
+            "guid": "FXZK8FQq5]",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "су..ота",
+                "суббота"
+            ],
+            "flags": 0,
+            "guid": "fW~D8=m25T",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "т..релка",
+                "тарелка"
+            ],
+            "flags": 0,
+            "guid": "yG/2qkTy-V",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "т..вар..щ",
+                "товарищ"
+            ],
+            "flags": 0,
+            "guid": "bh]zJ$b1S8",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "т..пор",
+                "топор"
+            ],
+            "flags": 0,
+            "guid": "Eq%YyqQ7n)",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ул..ца",
+                "улица"
+            ],
+            "flags": 0,
+            "guid": "wSVKe?h-l3",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ур..жай",
+                "урожай"
+            ],
+            "flags": 0,
+            "guid": "h*<][)AOy<",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "учит..льн..ца",
+                "учительница"
+            ],
+            "flags": 0,
+            "guid": "DH;rjSw]w7",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ф..милия",
+                "фамилия"
+            ],
+            "flags": 0,
+            "guid": "KJ=F*O4Lvu",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ф..враль",
+                "февраль"
+            ],
+            "flags": 0,
+            "guid": "cn[8Fk/{7g",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ш..л",
+                "шёл"
+            ],
+            "flags": 0,
+            "guid": "oO]CaR+nk[",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "щ..вель",
+                "щавель"
+            ],
+            "flags": 0,
+            "guid": "nK=V0*CH0v",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ябл..ко",
+                "яблоко"
+            ],
+            "flags": 0,
+            "guid": "ix0YeikEk<",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ябл..ня",
+                "яблоня"
+            ],
+            "flags": 0,
+            "guid": "HoNnd^|pd{",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "яг..да",
+                "ягода"
+            ],
+            "flags": 0,
+            "guid": "mx1b@<It.C",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "..нварь",
+                "январь"
+            ],
+            "flags": 0,
+            "guid": "Dh{Ni|0vg^",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        }
+    ]
+}

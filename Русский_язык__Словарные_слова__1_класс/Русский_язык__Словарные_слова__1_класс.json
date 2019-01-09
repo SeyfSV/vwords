@@ -1,0 +1,466 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "c7847476-1447-11e9-996c-7ce9d3f08757",
+    "deck_config_uuid": "c7847477-1447-11e9-996c-7ce9d3f08757",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "addon_audio_download_language": "en",
+            "autoplay": false,
+            "crowdanki_uuid": "c7847477-1447-11e9-996c-7ce9d3f08757",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 16,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Определениия",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 4,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 50
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "http://razviwaika.ru/slovarnye-slova-1-klass-programma-shkola-rossii/",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 50,
+    "media_files": [],
+    "mid": 1383124316685,
+    "name": "Русский язык::Словарные слова::1 класс",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Вопрос",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Ответ",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Основная (+ обратные карточки)-614af",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Карточка 1",
+                    "ord": 0,
+                    "qfmt": "{{Вопрос}}\n{{type:Ответ}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "вес..л..",
+                "весело"
+            ],
+            "flags": 0,
+            "guid": "b#dup+Pc~P",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "в..р..бей",
+                "воробей"
+            ],
+            "flags": 0,
+            "guid": "qrW{EO)?Q;",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "в..рона",
+                "ворона"
+            ],
+            "flags": 0,
+            "guid": "IW_ZQH%rrM",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "дев..чка",
+                "девочка"
+            ],
+            "flags": 0,
+            "guid": "huF6+lC$TT",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "д..журный",
+                "дежурный"
+            ],
+            "flags": 0,
+            "guid": "gPSHv>%j=B",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "д..ревня",
+                "деревня"
+            ],
+            "flags": 0,
+            "guid": "G4$pp.[A|@",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "за..ц",
+                "заяц"
+            ],
+            "flags": 0,
+            "guid": "n_:%hJYZk`",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "к..р..ндаш",
+                "карандаш"
+            ],
+            "flags": 0,
+            "guid": "KlnJqd8Ike",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "кла..",
+                "класс"
+            ],
+            "flags": 0,
+            "guid": "B.%!~*#yk@",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "к..рова",
+                "корова"
+            ],
+            "flags": 0,
+            "guid": "oj-k2En&La",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "л..сица",
+                "лисица"
+            ],
+            "flags": 0,
+            "guid": "s08<BG?9tl",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "м..шина",
+                "машина"
+            ],
+            "flags": 0,
+            "guid": "8wBi$jJw5",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "м..дведь",
+                "медведь"
+            ],
+            "flags": 0,
+            "guid": "LCe9*c]_h>",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "м..л..ко",
+                "молоко"
+            ],
+            "flags": 0,
+            "guid": "z[{Ye$AesH",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "М..сква",
+                "Москва"
+            ],
+            "flags": 0,
+            "guid": "pmG^Be?)*j",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "п..льто",
+                "пальто"
+            ],
+            "flags": 0,
+            "guid": "qFSlymSoCd",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "п..нал",
+                "пенал"
+            ],
+            "flags": 0,
+            "guid": "h1>w5hv5bW",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "п..тух",
+                "петух"
+            ],
+            "flags": 0,
+            "guid": "yPT)_MOG|*",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "р..бота",
+                "работа"
+            ],
+            "flags": 0,
+            "guid": "GHJ}4yV6,&",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "р..бята",
+                "ребята"
+            ],
+            "flags": 0,
+            "guid": "DP%IK9-*-W",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ру..кий",
+                "русский"
+            ],
+            "flags": 0,
+            "guid": "y4:FVn}1bY",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "с..бака",
+                "собака"
+            ],
+            "flags": 0,
+            "guid": "r,VV[l}`X%",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "с..рока",
+                "сорока"
+            ],
+            "flags": 0,
+            "guid": "m,(n[}qEej",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "т..традь",
+                "тетрадь"
+            ],
+            "flags": 0,
+            "guid": "qN%0mPS7cW",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "уч..ник",
+                "ученик"
+            ],
+            "flags": 0,
+            "guid": "b6tUT:S[uo",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "уч..ница",
+                "ученица"
+            ],
+            "flags": 0,
+            "guid": "p-Rd9?9Y5A",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "учит..ль",
+                "учитель"
+            ],
+            "flags": 0,
+            "guid": "uO$W}]CW~",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "х..р..шо",
+                "хорошо"
+            ],
+            "flags": 0,
+            "guid": "K-]9T`:+Is",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "..зык",
+                "язык"
+            ],
+            "flags": 0,
+            "guid": "t1;$FSm!do",
+            "note_model_uuid": "c784747a-1447-11e9-996c-7ce9d3f08757",
+            "tags": []
+        }
+    ]
+}
